@@ -1,3 +1,4 @@
+[
 {
   "Disabled": false,
   "Testing": false,
@@ -32,3 +33,4 @@
         "DownloadLinkUpdate": "https://github.com/iDevLA/SlideCast1/releases/download/1.0/SlideCast.zip",
         "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png"
     }
+  ]
